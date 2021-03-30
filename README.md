@@ -1,1 +1,1 @@
-# This is a collection of VBA projects.
+# Nothing to read here, yet.
